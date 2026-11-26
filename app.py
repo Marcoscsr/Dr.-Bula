@@ -47,6 +47,16 @@ def iniciar_rag():
     arquivos = [
         "bula_glifage.pdf",
         "bula_glifagexr.pdf",
+        "bula_LANTUS_insulina_glargina",
+        "bula_Januvia",
+        "bula_InsulinaHumanaRegular",
+        "bula_InsulinaHumana_NovolinN.pdf",
+        "bula_glimepirida.pdf",
+        "bula_gliclazida.pdf",
+        "bula_glibenclamida.pdf",
+        "bula_empagliflozina.pdf",
+        "bula_dapagliflozina.pdf",
+        "bula_Mounjaro.pdf"
     ]
 
     # Lê os PDFs e transforma o conteúdo em objetos Document
