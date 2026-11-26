@@ -47,9 +47,9 @@ def iniciar_rag():
     arquivos = [
         "bula_glifage.pdf",
         "bula_glifagexr.pdf",
-        "bula_LANTUS_insulina_glargina",
-        "bula_Januvia",
-        "bula_InsulinaHumanaRegular",
+        "bula_LANTUS_insulina_glargina.pdf",
+        "bula_Januvia.pdf",
+        "bula_InsulinaHumanaRegular.pdf",
         "bula_InsulinaHumana_NovolinN.pdf",
         "bula_glimepirida.pdf",
         "bula_gliclazida.pdf",
